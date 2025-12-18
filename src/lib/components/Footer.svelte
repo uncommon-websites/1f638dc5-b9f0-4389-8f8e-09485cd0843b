@@ -23,7 +23,7 @@
                 <h3 class="font-bold mb-6">Frequently Asked Questions</h3>
             </div>
             <div class="md:col-span-3 space-y-6">
-                {#each ['How is AirOps different from other generative AI tools?', 'What types of content can I create on AirOps?', 'How does AirOps help me beyond content creation?', 'What if I already use an SEO agency?', 'How does pricing work?'] as q}
+                {#each ['How is Citr different from other AI visibility tools?', 'What makes Citr\'s monitoring more accurate than competitors?', 'How does Citr help me improve my ChatGPT citations?', 'What if I already use traditional SEO tools?', 'How does pricing work?'] as q}
                 <div class="border-b border-white/10 pb-6 flex justify-between items-center cursor-pointer group">
                     <span class="text-lg font-light group-hover:text-brand-green transition-colors">{q}</span>
                     <span class="text-2xl font-light">+</span>
@@ -36,58 +36,54 @@
             <div>
                 <h4 class="text-white font-bold mb-4">Product</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Platform</a></li>
-                    <li><a href="#" class="hover:text-white">Integrations</a></li>
-                    <li><a href="#" class="hover:text-white">Action</a></li>
-                    <li><a href="#" class="hover:text-white">Grid</a></li>
-                    <li><a href="#" class="hover:text-white">Workflows</a></li>
-                    <li><a href="#" class="hover:text-white">Knowledge Base</a></li>
+                    <li><a href="#" class="hover:text-white">Citation Tracking</a></li>
+                    <li><a href="#" class="hover:text-white">Competitor Intelligence</a></li>
+                    <li><a href="#" class="hover:text-white">Research Pool</a></li>
+                    <li><a href="#" class="hover:text-white">Automated Alerts</a></li>
+                    <li><a href="#" class="hover:text-white">API Access</a></li>
+                    <li><a href="#" class="hover:text-white">Reports</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">Solutions</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Content Strategy</a></li>
-                    <li><a href="#" class="hover:text-white">Marketing Agencies</a></li>
-                    <li><a href="#" class="hover:text-white">Content Refresh</a></li>
-                    <li><a href="#" class="hover:text-white">Content Creation</a></li>
+                    <li><a href="#" class="hover:text-white">For Marketers</a></li>
+                    <li><a href="#" class="hover:text-white">For Agencies</a></li>
+                    <li><a href="#" class="hover:text-white">For Enterprise</a></li>
+                    <li><a href="#" class="hover:text-white">For SEO Teams</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">General</h4>
                 <ul class="space-y-2">
                     <li><a href="#" class="hover:text-white">Pricing</a></li>
-                    <li><a href="#" class="hover:text-white">Careers</a></li>
+                    <li><a href="#" class="hover:text-white">About Us</a></li>
                     <li><a href="#" class="hover:text-white">Documentation</a></li>
-                    <li><a href="#" class="hover:text-white">Affiliate</a></li>
+                    <li><a href="#" class="hover:text-white">Changelog</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">Resources</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Academy</a></li>
                     <li><a href="#" class="hover:text-white">Blog</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Research</a></li>
-                    <li><a href="#" class="hover:text-white">SEO AI Leader Playbook</a></li>
-                    <li><a href="#" class="hover:text-white">SEO Analysis</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Writer</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Jasper</a></li>
-                    <li><a href="#" class="hover:text-white">Prompts</a></li>
+                    <li><a href="#" class="hover:text-white">AI Search Guide</a></li>
+                    <li><a href="#" class="hover:text-white">Citation Playbook</a></li>
+                    <li><a href="#" class="hover:text-white">Case Studies</a></li>
+                    <li><a href="#" class="hover:text-white">Citr vs Competitors</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">Support</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Talk to Us</a></li>
-                    <li><a href="#" class="hover:text-white">Community</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Job Board</a></li>
-                    <li><a href="#" class="hover:text-white">Events</a></li>
+                    <li><a href="#" class="hover:text-white">Contact Us</a></li>
+                    <li><a href="#" class="hover:text-white">Help Center</a></li>
+                    <li><a href="#" class="hover:text-white">Status</a></li>
                 </ul>
             </div>
         </div>
         
         <div class="mt-32 text-center relative">
-             <h1 class="text-[12rem] md:text-[16rem] font-bold tracking-tighter leading-none text-white select-none">airops</h1>
+             <h1 class="text-[12rem] md:text-[16rem] font-bold tracking-tighter leading-none text-white select-none">citr</h1>
              <div class="absolute bottom-4 right-0 flex gap-4 text-[10px] text-gray-500 uppercase tracking-widest">
                  <a href="#">Privacy Policy</a>
                  <a href="#">Terms</a>

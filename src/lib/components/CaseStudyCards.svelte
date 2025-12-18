@@ -8,7 +8,7 @@
         <!-- Card 1 -->
         <div class="bg-[#FDF2F8] p-8 rounded-xl flex flex-col justify-between min-h-[320px] relative group hover:shadow-lg transition-shadow">
             <div>
-                <h3 class="text-xl font-medium text-gray-900 mb-2">10x ROI on Reddit strategy</h3>
+                <h3 class="text-xl font-medium text-gray-900 mb-2">10x increase in AI search visibility in 30 days</h3>
             </div>
             <div class="mt-auto">
                 <div class="flex items-center justify-between">
@@ -23,7 +23,7 @@
         <!-- Card 2 (Black) -->
         <div class="bg-black text-white p-8 rounded-xl flex flex-col justify-between min-h-[320px] relative group hover:shadow-lg transition-shadow">
             <div>
-                <h3 class="text-xl font-medium mb-2">+75% click-to-sale on new pages created with AirOps</h3>
+                <h3 class="text-xl font-medium mb-2">+75% increase in ChatGPT citations after optimizing with Citr</h3>
             </div>
             <div class="mt-auto">
                 <div class="flex items-center justify-between">
@@ -38,7 +38,7 @@
         <!-- Card 3 -->
         <div class="bg-white border border-gray-200 p-8 rounded-xl flex flex-col justify-between min-h-[320px] relative group hover:shadow-lg transition-shadow">
             <div>
-                <h3 class="text-xl font-medium text-gray-900 mb-2">2x increase in content velocity, refreshing 20+ pages / month</h3>
+                <h3 class="text-xl font-medium text-gray-900 mb-2">2x more brand mentions in ChatGPT responses</h3>
             </div>
             <div class="mt-auto">
                 <div class="flex items-center justify-between">
@@ -53,7 +53,7 @@
         <!-- Card 4 (Red) -->
         <div class="bg-[#9B2C2C] text-white p-8 rounded-xl flex flex-col justify-between min-h-[320px] relative group hover:shadow-lg transition-shadow">
             <div>
-                <h3 class="text-xl font-medium mb-2">+40% traffic increase from restructured and refreshed pages</h3>
+                <h3 class="text-xl font-medium mb-2">+40% visibility score improvement in competitive topics</h3>
             </div>
             <div class="mt-auto">
                 <div class="flex items-center justify-between">
@@ -83,7 +83,7 @@
         <!-- Card 6 (Green) -->
         <div class="bg-[#064E3B] text-white p-8 rounded-xl flex flex-col justify-between min-h-[320px] relative group hover:shadow-lg transition-shadow">
             <div>
-                <h3 class="text-xl font-medium mb-2">37% higher conversion rate from refreshed content</h3>
+                <h3 class="text-xl font-medium mb-2">37% higher lead quality from AI search traffic</h3>
             </div>
             <div class="mt-auto">
                 <div class="flex items-center justify-between">

@@ -2,11 +2,7 @@
     <div class="max-w-7xl mx-auto px-4 text-center mb-16">
          <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">Platform Features</span>
          <h2 class="mt-8 text-5xl md:text-6xl font-serif-display text-gray-900">Everything you need to <br/> dominate AI search</h2>
-<<<<<<< HEAD
          <p class="mt-6 text-gray-600 max-w-2xl mx-auto">Real-time monitoring, competitor intelligence, and actionable insights to optimize your ChatGPT visibility.</p>
-=======
-         <p class="mt-6 text-gray-600 max-w-2xl mx-auto">Real-time citation tracking, competitor intelligence, and AI-powered recommendations to optimize your ChatGPT visibility.</p>
->>>>>>> 44c0cac6eebc7bb8c7d0258fbecb2b329bfdd697
     </div>
     
     <div class="max-w-6xl mx-auto px-4 border border-gray-200 bg-gray-50">
@@ -15,11 +11,7 @@
             <div class="p-12 border-b border-r border-gray-200 bg-[#FFF0F5]">
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Real-Time Tracking</span>
                 <h3 class="text-3xl font-serif-display mb-4">Monitor citations across thousands of queries</h3>
-<<<<<<< HEAD
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Track your brand visibility in real-time across all the topics that matter. See exactly when and how ChatGPT cites your brand, products, or content.</p>
-=======
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Track your brand's visibility in real ChatGPT responses. See citation trends, topic performance, and visibility scores updated in real-time.</p>
->>>>>>> 44c0cac6eebc7bb8c7d0258fbecb2b329bfdd697
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 border-b border-gray-200 bg-white flex items-center justify-center overflow-hidden">
@@ -104,15 +96,9 @@
                 </div>
             </div>
             <div class="p-12 border-b border-gray-200 bg-[#FFF5EB]">
-<<<<<<< HEAD
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Automated Alerts</span>
                 <h3 class="text-3xl font-serif-display mb-4">Never miss a visibility change</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get instant notifications when your citations change, competitors gain ground, or new opportunities emerge. Automated monitoring keeps your team informed 24/7.</p>
-=======
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Competitor Intelligence</span>
-                <h3 class="text-3xl font-serif-display mb-4">See where competitors are winning</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Compare citation rates, identify content gaps, and get alerts when competitor visibility changes. Know exactly what's working for them—and what's not.</p>
->>>>>>> 44c0cac6eebc7bb8c7d0258fbecb2b329bfdd697
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </div>
@@ -120,15 +106,9 @@
         <!-- Row 3 -->
         <div class="grid md:grid-cols-2">
             <div class="p-12 border-b border-r border-gray-200 bg-[#E6FFFA]">
-<<<<<<< HEAD
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Competitor Intelligence</span>
                 <h3 class="text-3xl font-serif-display mb-4">See how you stack up against competitors</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Track unlimited competitors and benchmark your visibility against theirs. Identify content gaps where competitors win and get alerts when they gain ground in your topics.</p>
-=======
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Content Recommendations</span>
-                <h3 class="text-3xl font-serif-display mb-4">AI-powered optimization suggestions</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get actionable recommendations to improve citation rates. Our AI analyzes what's working and suggests content improvements with estimated impact scores.</p>
->>>>>>> 44c0cac6eebc7bb8c7d0258fbecb2b329bfdd697
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 border-b border-gray-200 bg-white flex items-center justify-center overflow-hidden">
@@ -209,15 +189,9 @@
                  </div>
             </div>
             <div class="p-12 border-b border-gray-200 bg-[#FEFCBF]/30">
-<<<<<<< HEAD
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Reports & Analytics</span>
                 <h3 class="text-3xl font-serif-display mb-4">White-label reports for stakeholders</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Generate beautiful PDF reports with your branding. Share visibility trends, citation analysis, and competitor insights with your team and clients.</p>
-=======
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Automated Alerts</span>
-                <h3 class="text-3xl font-serif-display mb-4">Never miss a visibility change</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get instant notifications when your citations change, competitors gain ground, or new opportunities emerge. Schedule automated snapshots and reports.</p>
->>>>>>> 44c0cac6eebc7bb8c7d0258fbecb2b329bfdd697
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </div>
@@ -225,17 +199,10 @@
         <!-- Row 5 -->
         <div class="grid md:grid-cols-2">
             <div class="p-12 border-r border-gray-200 bg-[#E9D8FD]/30">
-<<<<<<< HEAD
                 <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">API Access</span>
                 <h3 class="text-3xl font-serif-display mb-4">Build custom integrations with our API</h3>
                 <p class="text-gray-600 mb-8 text-sm leading-relaxed">Connect Citr to your existing tools and workflows. Pull citation data into your dashboards, trigger alerts in your systems, and automate reporting.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">View API Docs <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
-=======
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">White-Label Reports</span>
-                <h3 class="text-3xl font-serif-display mb-4">Professional reports for stakeholders</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Generate white-label PDF reports with your branding. Perfect for agencies managing multiple clients or teams reporting to executives.</p>
-                <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
->>>>>>> 44c0cac6eebc7bb8c7d0258fbecb2b329bfdd697
             </div>
             <div class="p-12 bg-white flex items-center justify-center">
                  <!-- API Code Snippet Mockup -->

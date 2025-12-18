@@ -1,10 +1,10 @@
 <section class="py-24 bg-white font-sans overflow-hidden">
     <div class="max-w-7xl mx-auto px-4 mb-12 flex flex-col md:flex-row justify-between items-end">
         <div class="max-w-2xl">
-            <h2 class="text-4xl md:text-5xl font-serif-display text-gray-900 mb-6">The world's best marketers, leveling each other up.</h2>
+            <h2 class="text-4xl md:text-5xl font-serif-display text-gray-900 mb-6">AI visibility leaders, sharing what works.</h2>
         </div>
         <div class="text-right">
-             <p class="text-xs text-gray-500 max-w-xs ml-auto mb-4">Our private slack community is free to operators at security, and here to turn visibility into conversions.</p>
+             <p class="text-xs text-gray-500 max-w-xs ml-auto mb-4">Join our community of growth leaders optimizing for the AI search era.</p>
              <a href="#" class="text-xs font-bold border-b border-gray-300 pb-0.5 hover:border-gray-900 transition-colors">Join The Pros -></a>
         </div>
     </div>
@@ -14,12 +14,12 @@
         <!-- Card 1 -->
         <div class="min-w-[300px] md:min-w-[400px] bg-[#FDF2F8] rounded-xl overflow-hidden relative group cursor-pointer aspect-[4/3]">
              <div class="absolute top-4 left-4 z-10">
-                 <span class="text-[10px] font-bold uppercase tracking-widest bg-white/80 backdrop-blur px-2 py-1 rounded">The New Content Era</span>
+                 <span class="text-[10px] font-bold uppercase tracking-widest bg-white/80 backdrop-blur px-2 py-1 rounded">AI Search Era</span>
              </div>
              <div class="p-8 h-full flex flex-col justify-end relative z-10">
-                 <h3 class="text-2xl font-serif-display mb-2">Needs Builders, Not Bystanders</h3>
+                 <h3 class="text-2xl font-serif-display mb-2">Why ChatGPT Citations Matter Now</h3>
                  <div class="flex items-center justify-between mt-4">
-                     <span class="font-bold text-xs opacity-50">airops</span>
+                     <span class="font-bold text-xs opacity-50">citr</span>
                      <div class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-sm">
                          <svg class="w-4 h-4 ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
                      </div>

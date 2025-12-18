@@ -12,56 +12,88 @@
         
         <!-- Headline -->
         <h1 class="text-5xl md:text-7xl lg:text-8xl font-serif-display text-gray-900 leading-[1.1] tracking-tight mb-6 max-w-5xl mx-auto">
-            Craft content <br class="hidden md:block" />
-            that wins 
+            Track your brand's <br class="hidden md:block" />
+            visibility in 
             <span class="inline-flex items-center align-middle mx-1 md:mx-2 relative -top-1 md:-top-2">
-                <svg width="60" height="60" viewBox="0 0 100 100" class="w-10 h-10 md:w-16 md:h-16 text-[#2A9D8F] animate-spin-slow" fill="currentColor">
-                    <!-- Stylized Asterisk/Flower -->
-                    <path d="M50 0 L60 35 L95 25 L70 50 L95 75 L60 65 L50 100 L40 65 L5 75 L30 50 L5 25 L40 35 Z" />
+                <svg width="60" height="60" viewBox="0 0 100 100" class="w-10 h-10 md:w-16 md:h-16 text-gray-900" fill="currentColor">
+                    <!-- ChatGPT-style icon -->
+                    <circle cx="50" cy="50" r="45" fill="none" stroke="currentColor" stroke-width="8"/>
+                    <path d="M30 40 L45 55 L70 30" stroke="currentColor" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
                 </svg>
             </span>
-            search
+            ChatGPT
         </h1>
 
         <!-- Subheadline -->
         <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed">
-            AirOps powers your content strategy, creation, and performance, helping your brand get seen, cited, and celebrated.
+            Monitor how ChatGPT cites your brand in real-time. Track competitors, get alerts, and optimize your AI visibility.
         </p>
 
         <!-- CTA -->
-        <div class="mb-16">
-            <a href="#" class="inline-flex items-center justify-center px-8 py-4 border border-transparent text-base font-medium rounded-full text-gray-900 bg-brand-green hover:bg-brand-green-hover transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
-                Book a Demo
+        <div class="mb-16 flex flex-col sm:flex-row gap-4 items-center">
+            <a href="#" class="inline-flex items-center justify-center px-8 py-4 border border-transparent text-base font-bold rounded-full text-white bg-black hover:bg-gray-800 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+                Join Beta Waitlist
                 <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
             </a>
+            <p class="text-sm text-gray-500">
+                <span class="font-bold">Beta testers get:</span> 3 months free + priority support
+            </p>
         </div>
 
-        <!-- Video Player / Error State Recreation -->
-        <div class="w-full max-w-5xl mx-auto rounded-lg overflow-hidden shadow-2xl bg-black aspect-video relative group cursor-pointer">
-            <!-- Volume Icon -->
-            <div class="absolute top-6 right-6 z-20 text-gray-400">
-                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"></path></svg>
+        <!-- Dashboard Preview -->
+        <div class="w-full max-w-5xl mx-auto rounded-lg overflow-hidden shadow-2xl bg-white border border-gray-200 relative group">
+            <!-- Browser Chrome -->
+            <div class="bg-gray-100 border-b border-gray-200 px-4 py-3 flex items-center gap-2">
+                <div class="flex gap-1.5">
+                    <div class="w-3 h-3 rounded-full bg-red-400"></div>
+                    <div class="w-3 h-3 rounded-full bg-yellow-400"></div>
+                    <div class="w-3 h-3 rounded-full bg-green-400"></div>
+                </div>
+                <div class="flex-1 mx-4">
+                    <div class="bg-white rounded px-3 py-1 text-xs text-gray-500 border border-gray-200">
+                        app.citr.app/dashboard
+                    </div>
+                </div>
             </div>
 
-            <!-- Content -->
-            <div class="absolute inset-0 flex flex-col items-center justify-center text-center p-8">
-                <!-- Play Button Circle -->
-                <div class="w-16 h-16 md:w-20 md:h-20 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center mb-6 group-hover:bg-white/20 transition-all">
-                    <svg class="w-8 h-8 md:w-10 md:h-10 text-white fill-current ml-1" viewBox="0 0 24 24">
-                        <path d="M8 5v14l11-7z" />
-                    </svg>
+            <!-- Dashboard Content -->
+            <div class="p-8 bg-gradient-to-br from-gray-50 to-white min-h-[500px]">
+                <!-- Header Stats -->
+                <div class="grid grid-cols-3 gap-4 mb-8">
+                    <div class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm">
+                        <div class="text-xs text-gray-500 uppercase font-bold mb-1">Visibility Score</div>
+                        <div class="text-3xl font-bold text-gray-900">87</div>
+                        <div class="text-xs text-green-600 font-bold mt-1">↑ 12% this week</div>
+                    </div>
+                    <div class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm">
+                        <div class="text-xs text-gray-500 uppercase font-bold mb-1">Total Citations</div>
+                        <div class="text-3xl font-bold text-gray-900">342</div>
+                        <div class="text-xs text-green-600 font-bold mt-1">↑ 28 new</div>
+                    </div>
+                    <div class="bg-white rounded-lg border border-gray-200 p-4 shadow-sm">
+                        <div class="text-xs text-gray-500 uppercase font-bold mb-1">Topics Tracked</div>
+                        <div class="text-3xl font-bold text-gray-900">15</div>
+                        <div class="text-xs text-gray-500 font-bold mt-1">5 active alerts</div>
+                    </div>
                 </div>
 
-                <!-- Error Message Text (Recreating the screenshot detail) -->
-                <h3 class="text-white text-xl md:text-2xl font-medium mb-2">We couldn't verify the security of your connection.</h3>
-                <p class="text-gray-400 text-sm md:text-base max-w-lg">
-                    Access to this content has been restricted. Contact your internet service provider for help.
-                </p>
-            </div>
-            
-            <!-- Progress Bar (Fake) -->
-            <div class="absolute bottom-0 left-0 right-0 h-1 bg-gray-800">
-                <div class="h-full w-1/3 bg-brand-green"></div>
+                <!-- Citation Trend Chart Placeholder -->
+                <div class="bg-white rounded-lg border border-gray-200 p-6 shadow-sm">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-sm font-bold text-gray-900">Citation Trends</h3>
+                        <div class="flex gap-2 text-xs">
+                            <span class="px-2 py-1 bg-gray-100 rounded">7D</span>
+                            <span class="px-2 py-1 bg-black text-white rounded">30D</span>
+                            <span class="px-2 py-1 bg-gray-100 rounded">90D</span>
+                        </div>
+                    </div>
+                    <!-- Simple chart visualization -->
+                    <div class="h-48 flex items-end gap-2">
+                        {#each [40, 55, 48, 62, 58, 71, 68, 75, 82, 79, 87, 85] as height}
+                        <div class="flex-1 bg-black rounded-t transition-all hover:bg-gray-700" style="height: {height}%"></div>
+                        {/each}
+                    </div>
+                </div>
             </div>
         </div>
     </div>

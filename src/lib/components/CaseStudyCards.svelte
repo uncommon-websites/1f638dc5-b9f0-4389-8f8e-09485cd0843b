@@ -1,7 +1,7 @@
 <section class="py-24 bg-white border-t border-gray-200 font-sans">
     <div class="max-w-7xl mx-auto px-4 text-center mb-16">
-        <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">Case Studies</span>
-        <h2 class="mt-8 text-5xl md:text-6xl font-serif-display text-gray-900">No hype. Real wins.</h2>
+        <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">Beta Results</span>
+        <h2 class="mt-8 text-5xl md:text-6xl font-serif-display text-gray-900">Early wins from <br/> forward-thinking teams</h2>
     </div>
 
     <div class="max-w-7xl mx-auto px-4 grid md:grid-cols-3 gap-6">
